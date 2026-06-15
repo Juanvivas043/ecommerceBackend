@@ -1,6 +1,6 @@
 # 🛒 E-Commerce API REST Backend
 
-Una API REST robusta, escalable y completamente tipada con **TypeScript** y **Express** para dar soporte a una plataforma de comercio electrónico. Utiliza **PostgreSQL** como base de datos relacional y **JWT** (JSON Web Tokens) para una autenticación segura y basada en roles.
+Una API REST robusta, escalable y completamente tipada con **TypeScript** y **Express** para dar soporte a una plataforma de comercio electrónico. Utiliza **PostgreSQL** como base de datos relacional y **JWT** (JSON Web Tokens) para una autenticación y basada en roles.
 
 ---
 
